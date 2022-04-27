@@ -1,7 +1,10 @@
 # -Higgs-Boson-Event-Detection
-    The Higgs boson is the fundamental particle associated with the Higgs field, a field that gives mass to other fundamental particles such as 
-electrons and quarks. 
-A particle’s mass determines how much it resists changing its speed or position when it encounters a force. Not all fundamental particles have mass. 
+The Higgs boson is the fundamental particle associated with the Higgs field, a field that gives mass to other 
+fundamental particles such as electrons and quarks. 
+
+A particle’s mass determines how much it resists changing its speed or position when it encounters a force. Not all fundamental 
+particles have mass. 
+
 The photon, which is the particle of light and carries the electromagnetic force, has no mass at all.
       
       Higgs boson is a fundamental particle, and the classification of Higgs signals is a well-known problem in high energy physics. The identification of the 
